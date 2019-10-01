@@ -8,6 +8,7 @@ public class sjh : MonoBehaviour
     void Start()
     {
         //hello
+        //hello from second lab
     }
 
     // Update is called once per frame
